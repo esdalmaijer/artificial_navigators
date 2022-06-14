@@ -11,7 +11,7 @@ Despite the lack of explicit social transmission or evaluation of outcomes, pair
 
 ## Manuscript
 
-Dalmaijer, E.S. (pre-print). Cumulative culture spontaneously emerges in artificial navigators who are social and memory-guided. *arXiv*, doi:[https://doi.org/10.48550/arXiv.2206.06281](10.48550/arXiv.2206.06281)
+Dalmaijer, E.S. (pre-print). Cumulative culture spontaneously emerges in artificial navigators who are social and memory-guided. *arXiv*, doi: [10.48550/arXiv.2206.06281](https://doi.org/10.48550/arXiv.2206.06281)
 
 ## Video demonstration
 
