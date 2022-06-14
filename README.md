@@ -15,4 +15,5 @@ Dalmaijer, E.S. (pre-print). Cumulative culture spontaneously emerges in artific
 
 ## Video demonstration
 
-![Animated example of two artificial navigators](https://github.com/esdalmaijer/artificial_navigators/blob/main/figure-01_mixture_model_animated.mp4)
+https://user-images.githubusercontent.com/1799940/173527953-60811032-82a7-498e-968b-08b296474157.mp4
+
