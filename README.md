@@ -13,6 +13,12 @@ Despite the lack of explicit social transmission or evaluation of outcomes, pair
 
 Dalmaijer, E.S. (pre-print). Cumulative culture spontaneously emerges in artificial navigators who are social and memory-guided. *arXiv*, doi: [10.48550/arXiv.2206.06281](https://doi.org/10.48550/arXiv.2206.06281)
 
+## Data
+
+Data generated through the code in this repository can be downloaded from Zenodo:
+
+Dalmaijer, Edwin S. (2022). Cumulative culture in artificial navigators [Data set]. Zenodo. [doi:10.5281/zenodo.6944185](https://doi.org/10.5281/zenodo.6944185)
+
 ## Video demonstration
 
 https://user-images.githubusercontent.com/1799940/173527953-60811032-82a7-498e-968b-08b296474157.mp4
