@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6944185.svg)](https://doi.org/10.5281/zenodo.6944185)
+
 # Cumulative cultural evolution in artificial navigators
 
 This project is on how cumulative culture can spontaneously emerge in agents who are bound by just four simple rules:
@@ -17,7 +19,7 @@ Dalmaijer, E.S. (pre-print). Cumulative culture spontaneously emerges in artific
 
 Data generated through the code in this repository can be downloaded from Zenodo:
 
-Dalmaijer, Edwin S. (2022). Cumulative culture in artificial navigators [Data set]. Zenodo. [doi:10.5281/zenodo.6944185](https://doi.org/10.5281/zenodo.6944185)
+Dalmaijer, E.S. (2022). Cumulative culture in artificial navigators [Data set]. Zenodo. [doi:10.5281/zenodo.6944185](https://doi.org/10.5281/zenodo.6944185)
 
 ## Video demonstration
 
